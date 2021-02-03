@@ -6,10 +6,10 @@ function runExample3() {
 			{
 				// flag that this place should have the tooltip shown when the map is first loaded
 				autoShow: true,
-				lat: 53.79,
-				lng:-1.5426760000000286,
-				name: "SmartEDU",
-				street: "Over the rainbow, Up high way",
+				lat: 0.7850,
+				lng:-36.5557,
+				name: "Heni High School",
+				street: "Kinangop, Fly-over Njambini Rd.",
 				userData: 99
 			}
 
